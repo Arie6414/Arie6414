@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arie6414
 - 👀 I’m interested in;
-    - Home Assitant
+    - Home Assistant
     - Home automation
     - Home networking (Unifi and Synology)
     - Smart technology and AI in drones
